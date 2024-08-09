@@ -23,7 +23,9 @@ public class Main_011 {
 				row++;
 			}
 			line++;
+			lScan.close();
 		}
+		fScan.close();
 
 		int maxProduct = 0;
 

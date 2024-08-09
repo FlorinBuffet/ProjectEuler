@@ -17,6 +17,7 @@ public class Main_013 {
 			sum = sum.add(in.nextBigInteger());
 		}
 
+		in.close();
 		System.out.println(sum);
 	}
 

@@ -1,4 +1,5 @@
 package p008_Largest_product_in_a_series;
+
 import java.io.File;
 import java.io.FileNotFoundException;
 import java.util.Scanner;
@@ -27,7 +28,7 @@ public class Main_008 {
 			}
 		}
 		System.out.println(maxProduct);
-
+		in.close();
 	}
 
 }
