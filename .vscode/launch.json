@@ -1,0 +1,196 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Main_001",
+            "request": "launch",
+            "mainClass": "p001_Multiples_of_3_or_5.Main_001",
+            "projectName": "Project Euler"
+        },
+        {
+            "type": "java",
+            "name": "Main_002",
+            "request": "launch",
+            "mainClass": "p002_Even_Fibonacci_numbers.Main_002",
+            "projectName": "Project Euler"
+        },
+        {
+            "type": "java",
+            "name": "Main_003",
+            "request": "launch",
+            "mainClass": "p003_Largest_prime_factor.Main_003",
+            "projectName": "Project Euler"
+        },
+        {
+            "type": "java",
+            "name": "Main_004",
+            "request": "launch",
+            "mainClass": "p004_Largest_palindrome_product.Main_004",
+            "projectName": "Project Euler"
+        },
+        {
+            "type": "java",
+            "name": "Main_005",
+            "request": "launch",
+            "mainClass": "p005_Smallest_multiple.Main_005",
+            "projectName": "Project Euler"
+        },
+        {
+            "type": "java",
+            "name": "Main_006",
+            "request": "launch",
+            "mainClass": "p006_Sum_square_difference.Main_006",
+            "projectName": "Project Euler"
+        },
+        {
+            "type": "java",
+            "name": "Main_007",
+            "request": "launch",
+            "mainClass": "p007_10001st_prime.Main_007",
+            "projectName": "Project Euler"
+        },
+        {
+            "type": "java",
+            "name": "Main_008",
+            "request": "launch",
+            "mainClass": "p008_Largest_product_in_a_series.Main_008",
+            "projectName": "Project Euler"
+        },
+        {
+            "type": "java",
+            "name": "Main_009",
+            "request": "launch",
+            "mainClass": "p009_Special_Pythagorean_triplet.Main_009",
+            "projectName": "Project Euler"
+        },
+        {
+            "type": "java",
+            "name": "Main_010",
+            "request": "launch",
+            "mainClass": "p010_Summation_of_primes.Main_010",
+            "projectName": "Project Euler"
+        },
+        {
+            "type": "java",
+            "name": "Main_011",
+            "request": "launch",
+            "mainClass": "p011_Largest_product_in_a_grid.Main_011",
+            "projectName": "Project Euler"
+        },
+        {
+            "type": "java",
+            "name": "Main_012",
+            "request": "launch",
+            "mainClass": "p012_Highly_divisible_triangular_number.Main_012",
+            "projectName": "Project Euler"
+        },
+        {
+            "type": "java",
+            "name": "Main_013",
+            "request": "launch",
+            "mainClass": "p013_Large_sum.Main_013",
+            "projectName": "Project Euler"
+        },
+        {
+            "type": "java",
+            "name": "Main_014",
+            "request": "launch",
+            "mainClass": "p014_Longest_Collatz_sequence.Main_014",
+            "projectName": "Project Euler"
+        },
+        {
+            "type": "java",
+            "name": "Main_016",
+            "request": "launch",
+            "mainClass": "p016_Power_digit_sum.Main_016",
+            "projectName": "Project Euler"
+        },
+        {
+            "type": "java",
+            "name": "Main_017",
+            "request": "launch",
+            "mainClass": "p017_Number_Letter_Counts.Main_017",
+            "projectName": "Project Euler"
+        },
+        {
+            "type": "java",
+            "name": "Main_019",
+            "request": "launch",
+            "mainClass": "p019_Counting_sundays.Main_019",
+            "projectName": "Project Euler"
+        },
+        {
+            "type": "java",
+            "name": "Main_020",
+            "request": "launch",
+            "mainClass": "p020_Factorial_digit_sum.Main_020",
+            "projectName": "Project Euler"
+        },
+        {
+            "type": "java",
+            "name": "Main_025",
+            "request": "launch",
+            "mainClass": "p025_1000_digit_Fibonacci_number.Main_025",
+            "projectName": "Project Euler"
+        },
+        {
+            "type": "java",
+            "name": "Main_027",
+            "request": "launch",
+            "mainClass": "p027_Quadratic_primes.Main_027",
+            "projectName": "Project Euler"
+        },
+        {
+            "type": "java",
+            "name": "Main_028",
+            "request": "launch",
+            "mainClass": "p028_Number_spiral_diagonals.Main_028",
+            "projectName": "Project Euler"
+        },
+        {
+            "type": "java",
+            "name": "Main_029",
+            "request": "launch",
+            "mainClass": "p029_Distinct_powers.Main_029",
+            "projectName": "Project Euler"
+        },
+        {
+            "type": "java",
+            "name": "Main_030",
+            "request": "launch",
+            "mainClass": "p030_Digit_fifth_powers.Main_030",
+            "projectName": "Project Euler"
+        },
+        {
+            "type": "java",
+            "name": "Main_034",
+            "request": "launch",
+            "mainClass": "p034_Digit_factorials.Main_034",
+            "projectName": "Project Euler"
+        },
+        {
+            "type": "java",
+            "name": "Main_034(1)",
+            "request": "launch",
+            "mainClass": "p036_Double_base_palindromes.Main_034",
+            "projectName": "Project Euler"
+        },
+        {
+            "type": "java",
+            "name": "Main_048",
+            "request": "launch",
+            "mainClass": "p048_Self_powers.Main_048",
+            "projectName": "Project Euler"
+        }
+    ]
+}
